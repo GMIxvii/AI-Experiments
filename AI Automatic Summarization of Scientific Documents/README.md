@@ -1,6 +1,4 @@
-Here is a short, structured, and clear README for your project:
 
----
 
 # AI Scientific Document Summarizer
 
