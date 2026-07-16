@@ -12,7 +12,8 @@ This system is built using **Python's `experta` framework** to model rule-based 
 
 ## 🚀 Live Space
 Access the deployed interactive web application here:
-👉 **[Expert System For Medical Diagnostic Assistance on Hugging Face](https://huggingface.co/spaces/gmi-univ/ESMDA)**
+👉 **[Expert System For Medical Diagnostic Assistance on Hugging Face](https://huggingface.co/spaces/gmi-univ/Expert-System-for-Medical-Diagnostic-Assistance
+)**
 
 ---
 
