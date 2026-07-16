@@ -2,7 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![HuggingFace Space](https://huggingface.co/spaces/gmi-univ/Expert-System-for-Medical-Diagnostic-Assistance)](https://huggingface.co/spaces/gmi-univ/Expert-System-for-Medical-Diagnostic-Assistance).
+[![HuggingFace Space](https://huggingface.co/spaces/gmi-univ/Expert-System-for-Medical-Diagnostic-Assistance)](https://huggingface.co/spaces/gmi-univ/Expert-System-for-Medical-Diagnostic-Assistance)
 
 An interactive, production-grade clinical decision support system designed to assist in the rule-based diagnosis and treatment recommendation for common acute conditions (Cold, Flu, Bronchitis, Strep Throat, Sinusitis, Allergies, and Gastroenteritis). 
 
