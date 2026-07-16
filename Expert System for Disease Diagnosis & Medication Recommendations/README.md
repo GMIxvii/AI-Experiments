@@ -20,7 +20,7 @@ Access the deployed interactive web application here:
 ## 📚 Theoretical Foundation & Source of Truth
 
 The system design, knowledge management, and logical rules implemented in this repository are thoroughly mapped and validated against the academic framework presented in:
-* 📄 **[Knowledge Management in ESMDA: Expert System for Medical Diagnostic Assistance]([https://www.researchgate.net/publication/381514755_Knowledge_Management_in_ESMDA_Expert_System_for_Medical_Diagnostic_Assistance](https://www.researchgate.net/publication/256090216_Knowledge_Management_in_ESMDA_Expert_System_for_Medical_Diagnostic_Assistance))**
+* 📄 **[Knowledge Management in ESMDA: Expert System for Medical Diagnostic Assistance](https://www.researchgate.net/publication/256090216_Knowledge_Management_in_ESMDA_Expert_System_for_Medical_Diagnostic_Assistance)**
 
 ---
 
