@@ -4,7 +4,7 @@
 ## 📌 Overview
 This repository contains the core classification and diagnostic modules designed for Parkinson's disease telemonitoring. 
 
-**Note:** This is an extraction from a fully developed e-health platform, originally built as a submission for the **National University Olympiad in Artificial Intelligence & Programming**. 
+## **Note:** This is an extraction from a fully developed e-health platform, originally built as a submission for the **National University Olympiad in Artificial Intelligence & Programming**. 
 
 ## 🏗️ Patient Workflow
 The platform guides the patient through a comprehensive, multi-step remote examination process before delivering results.
